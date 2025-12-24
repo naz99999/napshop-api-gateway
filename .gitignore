@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+volume-data/mysql_keycloak_data/\#ib_16384_0.dblwr
+volume-data/mysql_keycloak_data/\#innodb_redo/\#ib_redo27
+/volume-data
+.DS_Store
